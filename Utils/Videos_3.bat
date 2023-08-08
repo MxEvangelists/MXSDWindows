@@ -1,0 +1,1 @@
+"C:\Mendix Stream\VLC\vlc.exe" --qt-fullscreen-screennumber=3 --config="C:\Mendix Stream\VLC\lvcrc" %1
