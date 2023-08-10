@@ -26,3 +26,7 @@ git pull
 ## Installation
 
 No further action should be necessary.
+
+## Configuration
+
+If you have multiple screens connected to your PC you may need to configure the presentations to appear on the correct one. To do this you should have the Content and Profile downloaded and opened in the Stream Deck. On the Stream Deck there should be a button for *Settings*. Click that and there will be buttons to set the screen to number 1, 2 or 3. You can try each by clicking the button, then use the Stream Deck to show one of the videos and see if it appears on the right display. If not then repeat the process with another Screen until you hit the right one.
