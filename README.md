@@ -7,9 +7,9 @@ This project contains utilities for presentations using Elgato Stream Deck. This
 
 ### First time download
 
-This content must be installed under `C:\MendixStream`. Make this folder on your PC first if necessary.
+These Windows utilities must be installed under `C:\MendixStream`. Make this folder on your PC first if necessary.
 
-Download the latest content as follows:
+Download the latest utilities as follows:
 ```
 cd \MendixStream
 git clone https://github.com/Adrian-Preston/MXSDWindows.git
@@ -17,7 +17,7 @@ git clone https://github.com/Adrian-Preston/MXSDWindows.git
 
 ### Update
 
-You can pull the latest version of the content using:
+You can pull the latest version of the utilities using:
 ```
 cd \MendixStream
 git pull
