@@ -1,7 +1,7 @@
 # MXSDWindows
 *Windows tools for use with the Mendix Stream Deck content*
 
-This project contains utilities for presentations using Elgato Stream Deck. This is used for using Stream Deck on a Windows PC. In addition to this repository you will also need Content repository ([https://github.com/Adrian-Preston/MXSDContent](https://github.com/Adrian-Preston/MXSDContent)). If you are using a Mac you will need the Mac support repository ([https://github.com/Adrian-Preston/MXSDMac](https://github.com/Adrian-Preston/MXSDMac)) instead of this one.
+This project contains utilities for presentations using Elgato Stream Deck. This is used for using Stream Deck on a Windows PC. In addition to this repository you will also need Content repository ([https://github.com/MxEvangelists/MXSDContent](https://github.com/MxEvangelists/MXSDContent)). If you are using a Mac you will need the Mac support repository ([https://github.com/MxEvangelists/MXSDMac](https://github.com/MxEvangelists/MXSDMac)) instead of this one.
 
 ## Download
 
@@ -12,7 +12,7 @@ These Windows utilities must be installed under `C:\MendixStream`. Make this fol
 Download the latest utilities as follows:
 ```
 cd \MendixStream
-git clone https://github.com/Adrian-Preston/MXSDWindows.git
+git clone https://github.com/MxEvangelists/MXSDWindows.git
 ```
 
 ### Update
